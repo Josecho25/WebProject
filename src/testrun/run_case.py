@@ -20,3 +20,4 @@ if __name__ == '__main__':
     print('hello')
     print('hello2')
     print('hello3')
+    print('hot-fix test')
