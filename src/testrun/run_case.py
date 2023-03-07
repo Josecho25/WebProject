@@ -17,3 +17,4 @@ class RunCase:
 
 if __name__ == '__main__':
     RunCase().run_case()
+    print('hello')
