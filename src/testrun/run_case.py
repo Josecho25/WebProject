@@ -19,3 +19,4 @@ if __name__ == '__main__':
     RunCase().run_case()
     print('hello')
     print('hello2')
+    print('hello3')
